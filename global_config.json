@@ -1,0 +1,10 @@
+{
+  "profile": "Pedro Lopes",
+  "role": "AI Training Specialist & Psychologist",
+  "expertise": ["RLHF", "Data Labeling", "Psychology"],
+  "tech_stack": {
+    "languages": ["Python", "JavaScript", "HTML", "SQL"],
+    "tools": ["Git", "GitHub", "E-commerce Ops"]
+  },
+  "status": "Ready for Alignerr Projects"
+}
